@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/phosani/daddylive-m3u/refs/heads/main/epg.xml"
+#EXT-X-KEY:METHOD=AES-128,URI="http://192.168.88.1:8888/https://key2.keylocking.ru/wmsxx.php?test=true|name=premium51|number=1",IV=0x30303030303030303030303068418f96,KEYFORMAT="identity"
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" ,ABC
+http://192.168.88.1:8888/https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer="https://lefttoplay.xyz/"|Origin="https://lefttoplay.xyz"
+
+#EXT-X-KEY:METHOD=AES-128,URI="http://192.168.88.1:8888/https://key2.keylocking.ru/wmsxx.php?test=true|name=premium302|number=1",IV=0x30303030303030303030303068418f96,KEYFORMAT="identity"
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" ,A&E
+http://192.168.88.1:8888/https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Referer="https://lefttoplay.xyz/"|Origin="https://lefttoplay.xyz"
+
+#EXT-X-KEY:METHOD=AES-128,URI="http://192.168.88.1:8888/https://key2.keylocking.ru/wmsxx.php?test=true|name=premium303|number=1",IV=0x30303030303030303030303068418fc2,KEYFORMAT="identity"
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)" ,AMC
+http://192.168.88.1:8888/https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8|Referer="https://lefttoplay.xyz/"|Origin="https://lefttoplay.xyz"
+
+#EXT-X-KEY:METHOD=AES-128,URI="http://192.168.88.1:8888/https://key2.keylocking.ru/wmsxx.php?test=true|name=premium304|number=1",IV=0x30303030303030303030303068418fc2,KEYFORMAT="identity"
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)" ,Animal Planet
+http://192.168.88.1:8888/https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8|Referer="https://lefttoplay.xyz/"|Origin="https://lefttoplay.xyz"
